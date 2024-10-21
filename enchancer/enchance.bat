@@ -265,5 +265,6 @@ rem Exit command
 if "%command%"=="exit" (
     exit
 )
+oayse
 
 goto loop
